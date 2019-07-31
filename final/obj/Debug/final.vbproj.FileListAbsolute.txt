@@ -1,0 +1,182 @@
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\bin\Debug\final.exe.config
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\bin\Debug\final.exe
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\bin\Debug\final.pdb
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\bin\Debug\final.xml
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.vbprojResolveAssemblyReference.cache
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.Resources.resources
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.vbproj.GenerateResource.Cache
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.exe
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.xml
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.pdb
+c:\users\azerty\documents\visual studio 2015\Projects\final\final\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.frm_login.resources
+C:\Users\Azerty\documents\visual studio 2015\Projects\final\final\bin\Debug\MySql.Data.dll
+C:\Users\Azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.frm_menu_user.resources
+C:\Users\Azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.frm_menu_admin.resources
+C:\Users\Azerty\documents\visual studio 2015\Projects\final\final\obj\Debug\final.frm_admin_dashboard.resources
+C:\Users\Azerty\Documents\Visual Studio 2015\Projects\final\final\obj\Debug\final.frm_dashboard.resources
+C:\Users\Azerty\Documents\Visual Studio 2015\Projects\final\final\obj\Debug\final.frm_tickets.resources
+C:\Users\Azerty\Desktop\final\final\bin\Debug\final.exe.config
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.exe
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.xml
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.pdb
+C:\Users\Azerty\Desktop\final\final\bin\Debug\final.exe
+C:\Users\Azerty\Desktop\final\final\bin\Debug\final.pdb
+C:\Users\Azerty\Desktop\final\final\bin\Debug\final.xml
+C:\Users\Azerty\Desktop\final\final\bin\Debug\MySql.Data.dll
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.vbprojResolveAssemblyReference.cache
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_dashboard.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_login.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_tickets.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.Resources.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.vbproj.GenerateResource.Cache
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_acc.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.Form1.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.Form2.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.Form3.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_user.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_userAddtkt.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_admin.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_userdash.resources
+\\AZERTY\Users\Azerty\Desktop\final\final\bin\Debug\final.exe.config
+\\AZERTY\Users\Azerty\Desktop\final\final\obj\Debug\final.exe
+\\AZERTY\Users\Azerty\Desktop\final\final\obj\Debug\final.xml
+\\AZERTY\Users\Azerty\Desktop\final\final\obj\Debug\final.pdb
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.Form4.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.Form5.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_log.resources
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_pass.resources
+C:\Users\Azerty\Desktop\final\final\bin\Debug\final.exe.manifest
+C:\Users\Azerty\Desktop\final\final\bin\Debug\final.application
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.exe.manifest
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.application
+C:\Users\Azerty\Desktop\final\final\obj\Debug\final.frm_myadmin.resources
+C:\Users\lamad\Downloads\Compressed\final\final\bin\Debug\final.exe.config
+C:\Users\lamad\Downloads\Compressed\final\final\bin\Debug\final.exe.manifest
+C:\Users\lamad\Downloads\Compressed\final\final\bin\Debug\final.application
+C:\Users\lamad\Downloads\Compressed\final\final\bin\Debug\final.exe
+C:\Users\lamad\Downloads\Compressed\final\final\bin\Debug\final.pdb
+C:\Users\lamad\Downloads\Compressed\final\final\bin\Debug\final.xml
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.vbprojAssemblyReference.cache
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.vbproj.ResolveComReference.cache
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.Form1.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.Form2.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.Form3.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.Form4.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.Form5.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_acc.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_admin.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_dashboard.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_log.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_login.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_myadmin.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_pass.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_tickets.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_user.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_userAddtkt.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.frm_userdash.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.Resources.resources
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.vbproj.GenerateResource.cache
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.vbproj.CoreCompileInputs.cache
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.exe.manifest
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.application
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.vbproj.CopyComplete
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.exe
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.xml
+C:\Users\lamad\Downloads\Compressed\final\final\obj\Debug\final.pdb
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.vbproj.ResolveComReference.cache
+C:\Users\Azerty\Desktop\final na talaga\final\bin\Debug\MySql.Data.dll
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.vbprojResolveAssemblyReference.cache
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.Form1.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.Form2.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.Form3.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.Form4.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.Form5.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_acc.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_admin.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_dashboard.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_log.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_login.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_myadmin.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_pass.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_tickets.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_user.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_userAddtkt.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.frm_userdash.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.Resources.resources
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\final.vbproj.GenerateResource.Cache
+C:\Users\Azerty\Desktop\final na talaga\final\bin\Debug\Ticket System.exe.config
+C:\Users\Azerty\Desktop\final na talaga\final\bin\Debug\Ticket System.exe.manifest
+C:\Users\Azerty\Desktop\final na talaga\final\bin\Debug\Ticket System.application
+C:\Users\Azerty\Desktop\final na talaga\final\bin\Debug\Ticket System.exe
+C:\Users\Azerty\Desktop\final na talaga\final\bin\Debug\Ticket System.pdb
+C:\Users\Azerty\Desktop\final na talaga\final\bin\Debug\Ticket System.xml
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\Ticket System.exe.manifest
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\Ticket System.application
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\Ticket System.exe
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\Ticket System.xml
+C:\Users\Azerty\Desktop\final na talaga\final\obj\Debug\Ticket System.pdb
+C:\Users\Azerty\Desktop\final na talaga ule\final\bin\Debug\Ticket System.exe.config
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.vbproj.ResolveComReference.cache
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\Ticket System.exe
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\Ticket System.xml
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\Ticket System.pdb
+C:\Users\Azerty\Desktop\final na talaga ule\final\bin\Debug\Ticket System.exe.manifest
+C:\Users\Azerty\Desktop\final na talaga ule\final\bin\Debug\Ticket System.application
+C:\Users\Azerty\Desktop\final na talaga ule\final\bin\Debug\Ticket System.exe
+C:\Users\Azerty\Desktop\final na talaga ule\final\bin\Debug\Ticket System.pdb
+C:\Users\Azerty\Desktop\final na talaga ule\final\bin\Debug\Ticket System.xml
+C:\Users\Azerty\Desktop\final na talaga ule\final\bin\Debug\MySql.Data.dll
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.Form1.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.Form2.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.Form3.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.Form4.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.Form5.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_acc.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_admin.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_dashboard.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_log.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_login.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_myadmin.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_pass.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_tickets.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_user.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_userAddtkt.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.frm_userdash.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.Resources.resources
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.vbproj.GenerateResource.Cache
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\Ticket System.exe.manifest
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\Ticket System.application
+C:\Users\Azerty\Desktop\final na talaga ule\final\obj\Debug\final.Form6.resources
+C:\Users\Azerty\Desktop\thesis final\final\bin\Debug\Ticket System.exe.config
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.vbproj.ResolveComReference.cache
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\Ticket System.exe
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\Ticket System.xml
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\Ticket System.pdb
+C:\Users\Azerty\Desktop\thesis final\final\bin\Debug\Ticket System.exe.manifest
+C:\Users\Azerty\Desktop\thesis final\final\bin\Debug\Ticket System.application
+C:\Users\Azerty\Desktop\thesis final\final\bin\Debug\Ticket System.exe
+C:\Users\Azerty\Desktop\thesis final\final\bin\Debug\Ticket System.pdb
+C:\Users\Azerty\Desktop\thesis final\final\bin\Debug\Ticket System.xml
+C:\Users\Azerty\Desktop\thesis final\final\bin\Debug\MySql.Data.dll
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.Form1.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.Form2.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.Form3.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.Form4.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.Form5.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_acc.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_admin.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_dashboard.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_log.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_login.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_myadmin.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_pass.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_tickets.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_user.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_userAddtkt.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.frm_userdash.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.Resources.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.Form6.resources
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\final.vbproj.GenerateResource.Cache
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\Ticket System.exe.manifest
+C:\Users\Azerty\Desktop\thesis final\final\obj\Debug\Ticket System.application
